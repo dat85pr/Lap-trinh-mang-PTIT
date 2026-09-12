@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TCPClient {
+public class bai1tcp {
     public static void main(String[] args) {
         String serverHost = "36.50.135.242";
         int serverPort = 2208;
